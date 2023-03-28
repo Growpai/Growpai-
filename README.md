@@ -1,0 +1,2 @@
+# Growpai-
+discord.gg/growpai
