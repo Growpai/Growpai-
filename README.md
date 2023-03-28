@@ -1,4 +1,4 @@
-# Growpai-
+# Growpai
 https://discord.gg/growpai
 
 Official repo to download growpai: https://github.com/HertZxD/Growpai
